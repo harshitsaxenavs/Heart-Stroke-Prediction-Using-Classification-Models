@@ -1,1 +1,1 @@
-# heart-stroke-prediction-ml-classification-models
+# Heart-Stroke-Prediction-Using-Classification-Models
